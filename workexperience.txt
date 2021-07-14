@@ -2,6 +2,5 @@
 
 Welcome to Work Experience Progress
 
-Websites
-Social Media Presence
-Programming
+Day 1: Websites
+
