@@ -5,3 +5,5 @@ Welcome to Work Experience Progress
 Day 1: Websites
 Day 2: Social Media Presence
 Instagram and Facebook account made for Data Prime Limited
+Day 3: Programming
+Outsourcing and the purpose of Git was defined
