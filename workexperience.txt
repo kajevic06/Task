@@ -7,3 +7,4 @@ Day 2: Social Media Presence
 Instagram and Facebook account made for Data Prime Limited
 Day 3: Programming
 Outsourcing and the purpose of Git was defined
+Repository created and updated
